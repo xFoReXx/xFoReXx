@@ -2,7 +2,7 @@
 
 <div class="box" style="display: flex; align-items:center ;">
     Current goal: Learining React
-    <img alt="JS" width="20px" style="margin-top:px; ;"
+    <img alt="JS" width=25px" style="margin-top:1010px; ;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     </div>
           
