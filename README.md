@@ -18,5 +18,5 @@
 
 ### 📊 Stats
 ![xFoReXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xFoReXx&show_icons=true&theme=dark)
-<a href="https://github.com/xFoReXx"><img alt="xFoReXx's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFoReXx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
+<a href="https://github.com/xFoReXx"><img alt="xFoReXx's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFoReXx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117"/></a>
 <br/>
