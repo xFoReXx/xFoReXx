@@ -4,7 +4,7 @@
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,git,figma,vscode)](https://skillicons.dev)
 
 <h3 align="left">💡 Want to learn:</h3>
 
