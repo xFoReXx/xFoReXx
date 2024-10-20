@@ -16,5 +16,6 @@
 </p>
 
 ### 📊 Stats
-![xFoReXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xFoReXx&show_icons=true&theme=dark)
+![xFoReXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xFoReXx&show_icons=true&theme=dark&include_all_commits=true)
+
 
