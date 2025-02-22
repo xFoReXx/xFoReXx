@@ -8,7 +8,7 @@
 
 <h3 align="left">💡 Want to learn:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,react,nodejs,nextjs)](https://skillicons.dev)
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
